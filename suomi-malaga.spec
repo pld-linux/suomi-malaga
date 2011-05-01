@@ -1,12 +1,12 @@
 Summary:	Description of Finnish morphology written in Malaga
 Summary(pl.UTF-8):	Opis morfologii języka fińskiego napisany w języku Malaga
 Name:		suomi-malaga
-Version:	1.8
+Version:	1.9
 Release:	1
 License:	GPL v2+
 Group:		Libraries
 Source0:	http://downloads.sourceforge.net/voikko/%{name}-%{version}.tar.gz
-# Source0-md5:	f122495e136b8e21e33b0f71822c0fbc
+# Source0-md5:	2330a78894ead2f084ee6a09278a149c
 URL:		http://voikko.sourceforge.net/
 BuildRequires:	libstdc++-devel
 BuildRequires:	malaga >= 7.8
