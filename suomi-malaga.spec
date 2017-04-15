@@ -1,3 +1,4 @@
+# NOTE: subproject name has changed upstream, versions >= 2 continued in voikko-fi.spec
 # TODO: sukija (both malaga and vfst)
 #
 # Conditional build:
